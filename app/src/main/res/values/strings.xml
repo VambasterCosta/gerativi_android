@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">GerAtivi</string>
+    <string name="navigation_drawer_open">Abrir navegação</string>
+    <string name="navigation_drawer_close">Fechar navegação</string>
+    <string name="nav_header_title">GerAtivi</string>
+    <string name="nav_header_subtitle">Bem-Vindo ao gerenciador de Atividades</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Configurações</string>
+
+    <string name="text_prioridade">Prioridade</string>
+
+    <string name="menu_home">Início</string>
+    <string name="menu_categori">Categoria</string>
+    <string name="menu_atividade">Atividade</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_sobre">Sobre</string>
+    <string name="button_adicionar">Adicionar</string>
+    <string name="button_salvar">Salvar</string>
+
+    <string name="sobre_versao">GerAtivi 1.0.0</string>
+    <string name="sobre_desenvolvido">Desenvolvido por:</string>
+    <string name="sobre_developer">Vambaster Costa, Jean da Silva e Lenon Assalin</string>
+
+
+        <string-array name="planets_array">
+            <item>Baixa</item>
+            <item>Média</item>
+            <item>Alta</item>
+        </string-array>
+
+
+</resources>
